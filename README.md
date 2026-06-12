@@ -29,7 +29,7 @@ and SQL-powered dashboards on Dune Analytics.
 |---|---|---|
 | Uniswap Market Share | Cross-chain DEX volume & market share analysis | [View on Dune] (https://img.shields.io/badge/Dune-dune.com%2Foxbull-black?style=flat-square)](https://dune.com/oxbull) |
 | Large Wallet Tracker | Flags ETH trades > $100k on dex.trades | [View on Dune](https://dune.com/oxbull) |
-| Power BI Sales Dashboard | Revenue & customer trend analysis |Built a Logistic Operation Dashboard to track performance and growth |
+| Power BI Sales Dashboard | Built a Logistic Operation Dashboard to track performance and growth | |
 
 ---
 
@@ -43,9 +43,9 @@ and SQL-powered dashboards on Dune Analytics.
 
 **📬 Let's connect**
 
-[![Dune Analytics](https://dune.com/oxbull)
-[![LinkedIn](https://www.linkedin.com/in/ebuka-chukwudebelu-31752b230)
-[![Twitter](https://x.com/emicheal711)
+[Dune Analytics] (https://dune.com/oxbull)
+[LinkedIn] (https://www.linkedin.com/in/ebuka-chukwudebelu-31752b230)
+[Twitter] (https://x.com/emicheal711)
 
 ---
 
