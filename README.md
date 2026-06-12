@@ -27,7 +27,7 @@ and SQL-powered dashboards on Dune Analytics.
 
 | Project | Description | Link |
 |---|---|---|
-| Uniswap Market Share | Cross-chain DEX volume & market share analysis | [View on Dune](https://dune.com/oxbull) |
+| Uniswap Market Share | Cross-chain DEX volume & market share analysis | [View on Dune] (https://img.shields.io/badge/Dune-dune.com%2Foxbull-black?style=flat-square)](https://dune.com/oxbull) |
 | Large Wallet Tracker | Flags ETH trades > $100k on dex.trades | [View on Dune](https://dune.com/oxbull) |
 | Power BI Sales Dashboard | Revenue & customer trend analysis |Built a Logistic Operation Dashboard to track performance and growth |
 
